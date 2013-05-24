@@ -1,14 +1,17 @@
-A free light weight jQuery plugin that allows you to create a custom drop down with images and description.
+This is a free light weight jQuery plugin based on the 'ddslick' plugin originally created by Prashant Chaudhary that allows developers to create a custom drop down with images and description.
 
-About this plugin:
+Features available in this plugin:
 
-Adds images and description to otherwise boring drop downs.
-Allows JSON to populate the drop down options.
-Converts your HTML select element to ddSlick.
-Uses Minimum css and no external stylesheets to download.
-Supports callback functions on selection.
-Works as good even without images or description!
+-Optional Ability to include images and descriptions to otherwise boring drop downs.
+-Allows the use of JSON to populate the drop down options.
+-Converts HTML select element to a combination of easily stylable elements
+-Uses Minimum CSS by default (external CSS override possible and sample CSS code is included)
+-Supports callback functions on option selection.
+-Integrated with Font-Awesome
 
-Why is this plugin useful:
 
-With traditional drop downs i.e. using <select> <option> </option> </select> you are limited to only text and value. But with this easily configurable jquery plugin, you can now create a custom drop down that can very well include images, a short description, along with your usual text and value. Take a look at the following demos in action.
+Why is this plugin is useful:
+
+With traditional drop downs (i.e.; using <select> <option> </option> </select>) you are always limited to only text and a corresponding value parameter. But with this easily configurable jQuery plugin, you can now easily create a custom drop down that can very well include images, a short description, or the standard text and value parameters.
+
+Demo's will be coming soon...
